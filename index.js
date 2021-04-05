@@ -2,7 +2,9 @@
 // import "./js/brunches.js";
 // import "./js/functions.js";
 // import "./js/array.js";
-import "./js/loops.js"
+// import "./js/loops.js";
+// import "./js/callBacks.js";
+import "./js/arrayMethods.js"
 
 // import "./hw1/HWvariables.js"
 // import "./hw1/HWprimitives.js"
