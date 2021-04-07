@@ -4,7 +4,8 @@
 // import "./js/array.js";
 // import "./js/loops.js";
 // import "./js/callBacks.js";
-import "./js/arrayMethods.js"
+// import "./js/arrayMethods.js"
+import "./js/objects.js"
 
 // import "./hw1/HWvariables.js"
 // import "./hw1/HWprimitives.js"
