@@ -1,0 +1,19 @@
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(1, 226, 57);
+    padding: 20px;
+    border: 2px solid;
+}
+
+.links {
+    text-transform: uppercase;
+    color: brown;
+    border: 8px double;
+    padding: 30px;
+}
